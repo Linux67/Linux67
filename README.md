@@ -7,7 +7,7 @@
 
 * ##### In the future I want to study computer science or computer engineering 
 
-* ##### My hobbies are play games,watch movies and series,read books,mangas and hqs and play piano 
+* ##### My hobbies are play games,watch movies and series,read books,mangas and hqs,and play piano 
 
 ## My skills
 
