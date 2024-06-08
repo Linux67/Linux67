@@ -25,8 +25,8 @@
 
 ![Linux67 GitHub stats](https://github-readme-stats.vercel.app/api?username=Linux67&show_icons=true&theme=tokyonight)
 
+<h1>                                          </h1>
 
-## I use...
 ⚙️ OS  |   👨‍💻 IDE     | 🌐 Web Broswer    | 🖥️ Workspace | 
 :---------: |       :---------: | :---------: | :---------: | 
 ![OS](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) |![OS](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)|![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)|![amd](https://img.shields.io/badge/AMD-Ryzen_3_3200G-ED1C24?style=for-the-badge&logo=amd&logoColor=white)|
