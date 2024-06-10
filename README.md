@@ -3,7 +3,7 @@
 
 * #####  I'm learning programming 
 
-* ##### Studying system development technician integrated into high school 
+* ##### Studying system development technician integrated into high school- Etec Dr Francisco Nogueira de Lima 
 
 * ##### In the future I want to study computer science or computer engineering 
 
