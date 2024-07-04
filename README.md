@@ -29,7 +29,7 @@
 
 ⚙️ OS  |   👨‍💻 IDE     | 🌐 Web Broswer    | 🖥️ Workspace | 
 :---------: |       :---------: | :---------: | :---------: | 
-![OS](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) |![OS](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)|![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)|![amd](https://img.shields.io/badge/AMD-Ryzen_3_3200G-ED1C24?style=for-the-badge&logo=amd&logoColor=white)|
+![OS](https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white) |![OS](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)|![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)|![amd](https://img.shields.io/badge/AMD-Ryzen_3_3200G-ED1C24?style=for-the-badge&logo=amd&logoColor=white)|
 
 
 <img aling="center" alt="lain" src = https://giffiles.alphacoders.com/171/171318.gif>
