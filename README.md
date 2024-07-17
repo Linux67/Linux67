@@ -23,7 +23,6 @@
 ### 👾 Game Engine
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
-![Linux67 GitHub stats](https://github-readme-stats.vercel.app/api?username=Linux67&show_icons=true&theme=tokyonight)
 
 <h1>                                          </h1>
 
