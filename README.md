@@ -5,9 +5,9 @@
 
 * ##### Studying system development technician integrated into high school- Etec Dr Francisco Nogueira de Lima 
 
-* ##### In the future I want to study computer science or computer engineering 
+* ##### In the future I want to study computer science 
 
-* ##### My hobbies are play games,watch movies and series,read books,mangas and hqs,and play piano 
+* ##### My hobbies are play games,watch movies and series,read books and mangas
 
 ## My skills
 
