@@ -1,5 +1,5 @@
 
-# Hi, guys こんにちは、みんな 
+# Hi
 
 * #####  I'm learning programming 
 
